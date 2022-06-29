@@ -263,6 +263,7 @@ body {
 
     .slideshow-item-text {
         max-width: 100%;
+        width: 100%;
         padding: 2em;
         top: initial;
         bottom: 0;

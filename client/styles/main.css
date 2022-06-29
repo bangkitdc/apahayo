@@ -261,8 +261,9 @@ a:hover {
 }
 
 @media screen and (max-width: 500px) {
-  .container {
+  .three, .four, .five, .six, .seven, .eight, .nine {
     width: 90%;
+    margin: auto;
   }
 
   .four .text-box {
@@ -270,7 +271,7 @@ a:hover {
   }
 
   .text-box .fake-btn {
-    bottom: -38px;
+    bottom: -44px;
     right: 5px;
   }
 
@@ -283,7 +284,8 @@ a:hover {
   }
 
   .six .hat {
-    /* top: -20px; */
+    top: -90px;
+    left: 162.5px;
     width: 50px;
   }
 
