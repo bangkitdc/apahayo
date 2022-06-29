@@ -285,7 +285,8 @@ a:hover {
 
   .six .hat {
     top: -90px;
-    left: 162.5px;
+    /* left: 162.5px; */
+    left: 42.5%;
     width: 50px;
   }
 
